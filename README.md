@@ -1,4 +1,4 @@
-# biotechnology 🌱
+# biotechnology course 🌱
 
 Hello everybody!
 Here you can find some of the projects developed in the biotechnology course (although in my opinion it should have been called bioinfomatics haha 🤓) during my third year of biomedical engineering studies. 
