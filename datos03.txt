@@ -1,8 +1,0 @@
-Alfabeto: {A, C, D, F, G, I, K, L, M, P, R, S, T, V, Y}
-Alineación:
-    --PVT-F
-    --FDSSF
-    ---DGRM
-    -PCRT-F
-    LI--T-F
-Secuencia: YDS
